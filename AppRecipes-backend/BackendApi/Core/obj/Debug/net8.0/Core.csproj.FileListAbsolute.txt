@@ -1,0 +1,15 @@
+D:\פרויקטים\AppRecipes\BackendApi\Core\bin\Debug\net8.0\Core.deps.json
+D:\פרויקטים\AppRecipes\BackendApi\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\פרויקטים\AppRecipes\BackendApi\Core\bin\Debug\net8.0\Core.dll
+D:\פרויקטים\AppRecipes\BackendApi\Core\bin\Debug\net8.0\Core.pdb
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.dll
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\refint\Core.dll
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.pdb
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\פרויקטים\AppRecipes\BackendApi\Core\obj\Debug\net8.0\ref\Core.dll
