@@ -67,6 +67,7 @@ Users – Users table
 Recipes – Recipes table  
 Ingredients – Ingredients table  
 RecipeIngredients – Join table for many-to-many relationship between recipes and ingredients
+The complete SQL schema has been committed and is available in the Git repository.
 
 ---
 
