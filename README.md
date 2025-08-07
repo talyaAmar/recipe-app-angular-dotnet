@@ -51,7 +51,7 @@ Full form for adding a new recipe, including:
 
 ### 🧑‍🎨 Frontend – Angular
 
-Built using **Angular** as a modern Single Page Application (SPA), with use of HTTP Client, Routing, and Reactive Forms.
+Built using **Angular** as a modern Single Page Application (SPA), with use of HTTP Client, Routing.
 
 #### Key Technologies:
 
