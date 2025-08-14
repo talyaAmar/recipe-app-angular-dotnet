@@ -20,9 +20,8 @@ Role-based permissions – regular user vs. admin
 ### 📄 Home Page
 
 Card view for all recipes  
-Clicking a recipe card shows:  
-  - Full recipe details  
-  - Action buttons: **Download**, **Print**, **Share**, **Copy**
+Clicking a recipe card shows Full recipe details  
+  
 
 ### 🧑‍💼 Admin Only – Add Recipe
 
